@@ -6,7 +6,7 @@ I'm a computer engineering student passionate about coding, problem-solving, and
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esinbegumkaya&layout=compact&theme=radical)
 ![GitHub Streak Stats](https://streak-stats.demolab.com?user=esinbegumkaya&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-[Infinity Mirror Clock] (https://github.com/asyagenc/infinity-mirror-clock) - Contributed
+
 
 <!--
 **esinbegumkaya/esinbegumkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

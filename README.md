@@ -6,7 +6,7 @@ Feel free to check out my repositories and join me on this exciting path! 🚀
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esinbegumkaya&layout=compact&theme=radical&cache_seconds=1800)
 

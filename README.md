@@ -6,13 +6,6 @@
 
 *Building intelligent systems, practical developer tools, and software that turns ideas into useful experiences.*
 
-[![Portfolio Projects](https://img.shields.io/badge/Explore-My_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esinbegumkaya?tab=repositories)
-
-[![GitHub](https://img.shields.io/badge/GitHub-esinbegumkaya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esinbegumkaya)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esin-begum-kaya/)
-
-
 </div>
 
 ---

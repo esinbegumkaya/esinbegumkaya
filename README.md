@@ -27,6 +27,8 @@
 **Development & Testing**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+**Areas of Experience**  
+`RAG` · `Local LLMs` · `Computer Vision` · `REST APIs` · `Automated Testing` · `IBM Planning Analytics / TM1` · `Azure AI Foundry` · `Huawei Cloud` · `Google Cloud`
 
 ## Featured Work
 
@@ -79,12 +81,9 @@ Co-author of **“Modular and Transformable Bag Design for a Sustainable Environ
 </tr>
 </table>
 
-**Areas of Experience**  
-`RAG` · `Local LLMs` · `Computer Vision` · `REST APIs` · `Automated Testing` · `IBM Planning Analytics / TM1` · `Azure AI Foundry` · `Huawei Cloud` · `Google Cloud`
-
 ## Experience & Learning
 
-- **Microsoft Türkiye — AI Summer School / AI Engineering Internship:** explored Azure AI Foundry, local language models, AI agents, and RAG workflows.
+- **Microsoft Türkiye — AI Engineering Internship:** explored Azure AI Foundry, local language models, AI agents, and RAG workflows.
 - **Cubewise Türkiye — Consulting Internship:** worked with IBM Planning Analytics / TM1 and enterprise planning technologies.
 - **FLO Group — IT Internship:** gained exposure to ERP, infrastructure, and information security.
 

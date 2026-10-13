@@ -16,6 +16,9 @@
 - 🛠️ Building with **Python, Java, C++, RAG, cloud tools, and automated testing**
 - 📍 Based in **Istanbul, Türkiye**
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esinbegumkaya&layout=compact&theme=radical)
+
+
 ## Technology Stack
 
 **Languages**  
